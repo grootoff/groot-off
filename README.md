@@ -1,8 +1,15 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://jhey.dev)
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Jhey.
-</p>
-<p align='center'>For enquiries, reach out @ jhey@jhey.dev or over on <a href="https://twitter.com/jh3yy">Twitter</a>.</p>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+```shell
+$ echo "Hello World!" > README.md
+```
+    
+  
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sebaf96&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebaf96&layout=compact&theme=gotham" />
+</a>
+----
