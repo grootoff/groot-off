@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github.com/groot-off/groot-off/manish.gif)
+![](https://github.com/groot-off/groot-off/blob/main/manish.gif)
 
 Hello there, I'm Manish Kumar! I am currently pursuing my Bachelors in Computer Science (Galgotias University). And when I am not working, you'll find me listening to 90s songs. 
 
